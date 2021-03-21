@@ -1,0 +1,12 @@
+[package]
+name = "events"
+version = "0.1.0"
+authors = ["Shu Yamani <mail@shuymn.me>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+iced = "0.2.0"
+iced_futures = "0.2.0"
+iced_native = "0.3.0"
+multiinput = "0.1.0"
